@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Дарья Кембрина](https://up.htmlacademy.ru/htmlcss/19/user/387737).
-* Наставник: `Неизвестно`.
+* Наставник: [Ольга Вадясова](https://htmlacademy.ru/profile/ad-ovo).
 
 ---
 
